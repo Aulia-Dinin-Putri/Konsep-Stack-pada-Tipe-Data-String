@@ -1,0 +1,2 @@
+# Konsep-Stack-pada-Tipe-Data-String
+Stack atau tumpukan merupakan salah satu teknik dala struktur data. Dalam Stack terdapat 2 tahap, yaitu 1.PUSH (Simpan/Masuk) dan 2.POP (Ambil/Keluar). Selain itu, Stack juga memiliki prinsip LIFO (Last In First Out) yang artinya data yang terakhir masuk merupakan data yang akan diambil/keluar lebih dulu, sedangkan data yang pertama masuk merupakan data yang diambil/keluar paling akhir.
